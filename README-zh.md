@@ -1,8 +1,8 @@
 ## free_dialog
 
-free_dialog  is a minimalist dialog scheme. You can simply change the configuration to achieve the use effect
+free_dialog 是一个极简的dialog 方案，可简单更改配置，达到使用效果
 
-### Start
+### 开始集成
 
 ```dart
 dependencies:
@@ -24,9 +24,9 @@ dependencies:
 ![](https://github.com/smartbackme/free_dialog/blob/main/art/img7.jpg)
 
 
-### Usage:
+### 使用方法：
 
-1.  multi language environment configuration (English by default)
+1. 多语言环境配置（默认为英文）
 
 ```dart
       localizationsDelegates: [
@@ -39,8 +39,9 @@ dependencies:
 
 ```
 
-2. simple use
+2. 简单使用
 
-See demo
+请参看demo
 
-## This code base reference https://github.com/marcos930807/awesomeDialogs , reconstructed
+
+## 本代码库参考https://github.com/marcos930807/awesomeDialogs，重构而成
